@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fa84c8b-daf3-4f48-9460-5a117b17805a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipesAndFilters/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <marker date="1549698799497" expanded="true" signature="6:104" ph="..." />
+                <marker date="1549698799497" expanded="true" signature="131:509" ph="{...}" />
+                <marker date="1549698799497" expanded="true" signature="276:507" ph="{...}" />
+                <marker date="1549698799497" expanded="true" signature="335:501" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PipesAndFilters/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="813">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <marker date="1549698826940" expanded="true" signature="0:268" ph="..." />
+                <marker date="1549698826940" expanded="true" signature="295:2217" ph="{...}" />
+                <marker date="1549698826940" expanded="true" signature="333:1763" ph="{...}" />
+                <marker date="1549698826940" expanded="true" signature="471:699" ph="{...}" />
+                <marker date="1549698826940" expanded="true" signature="889:922" ph="{...}" />
+                <marker date="1549698826940" expanded="true" signature="991:1757" ph="{...}" />
+                <marker date="1549698826940" expanded="true" signature="1002:1312" ph="/* services.Add( ... */" />
+                <marker date="1549698826940" expanded="true" signature="1816:2205" ph="{...}" />
+                <marker date="1549698826940" expanded="true" signature="2029:2199" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <marker date="1549698436247" expanded="true" signature="51:283" ph="{...}" />
+                <marker date="1549698436247" expanded="true" signature="115:281" ph="{...}" />
+                <marker date="1549698436247" expanded="true" signature="224:275" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding>
+                <marker date="1549698509506" expanded="true" signature="6:137" ph="..." />
+                <marker date="1549698509506" expanded="true" signature="164:1875" ph="{...}" />
+                <marker date="1549698509506" expanded="true" signature="227:1873" ph="{...}" />
+                <marker date="1549698509506" expanded="true" signature="517:605" ph="{...}" />
+                <marker date="1549698509506" expanded="true" signature="712:1630" ph="{...}" />
+                <marker date="1549698509506" expanded="true" signature="785:1620" ph="{...}" />
+                <marker date="1549698509506" expanded="true" signature="816:1073" ph="/* We're simulating a condition that would cause the pipeline to be short-circuited ... */" />
+                <marker date="1549698509506" expanded="true" signature="1691:1867" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PiplineRequest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1549698328860" expanded="true" signature="35:127" ph="{...}" />
+                <marker date="1549698328860" expanded="true" signature="70:125" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipesAndFilters/HostedServiceBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+              <folding>
+                <marker date="1548390997796" expanded="true" signature="6:89" ph="..." />
+                <marker date="1548390997796" expanded="true" signature="116:1884" ph="{...}" />
+                <marker date="1548390997796" expanded="true" signature="123:449" ph="///A base class to provide correct handling of cancellation and start/stop semantics. ... " />
+                <marker date="1548390997796" expanded="true" signature="510:1882" ph="{...}" />
+                <marker date="1548390997796" expanded="true" signature="694:1078" ph="{...}" />
+                <marker date="1548390997796" expanded="true" signature="961:1028" ph="{...}" />
+                <marker date="1548390997796" expanded="true" signature="1152:1476" ph="{...}" />
+                <marker date="1548390997796" expanded="true" signature="1202:1254" ph="{...}" />
+                <marker date="1548390997796" expanded="true" signature="1486:1775" ph="///The long running operation that is run as a hosted service ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/ValidationFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+              <folding>
+                <marker date="1549698655709" expanded="true" signature="6:118" ph="..." />
+                <marker date="1549698655709" expanded="true" signature="155:1511" ph="{...}" />
+                <marker date="1549698655709" expanded="true" signature="246:1509" ph="{...}" />
+                <marker date="1549698655709" expanded="true" signature="379:429" ph="{...}" />
+                <marker date="1549698655709" expanded="true" signature="596:1503" ph="{...}" />
+                <marker date="1549698655709" expanded="true" signature="667:1079" ph="{...}" />
+                <marker date="1549698655709" expanded="true" signature="1253:1372" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipesAndFilters/PipesAndFilters.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineRequestHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <marker date="1549697321249" expanded="true" signature="6:107" ph="..." />
+                <marker date="1549697321249" expanded="true" signature="144:732" ph="{...}" />
+                <marker date="1549697321249" expanded="true" signature="334:730" ph="{...}" />
+                <marker date="1549697321249" expanded="true" signature="455:724" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/DoWorkFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1549698105616" expanded="true" signature="6:104" ph="..." />
+                <marker date="1549698105616" expanded="true" signature="141:1290" ph="{...}" />
+                <marker date="1549698105616" expanded="true" signature="228:1288" ph="{...}" />
+                <marker date="1549698105616" expanded="true" signature="349:399" ph="{...}" />
+                <marker date="1549698105616" expanded="true" signature="574:1282" ph="{...}" />
+                <marker date="1549698105616" expanded="true" signature="646:872" ph="{...}" />
+                <marker date="1549698105616" expanded="true" signature="1036:1151" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PiplineRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/HostedServiceBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineRequestHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/DoWorkFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/ValidationFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E639C1F9-3A20-4A8D-8F59-EBCD8F7FB8D6/a5/b436d17f/IPipelineBehavior`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/221FA654-76FD-4A6A-A7BE-C2CD9B5A08D9/fe/be60012a/IConfigurationBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/790C046D-3FEA-47D8-A082-BBCABBD0F621/4b/0bd6a5b6/ServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E639C1F9-3A20-4A8D-8F59-EBCD8F7FB8D6/0e/ee8264d6/IBaseRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E639C1F9-3A20-4A8D-8F59-EBCD8F7FB8D6/61/5f352629/IRequest`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/2c/c9c1eb6e/ConfiguredTaskAwaitable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineError.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7EAE45F1-4528-418E-AB86-202DA29445AC/1c/2ac2f840/HostingHostBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PipesAndFilters/ConsoleHostBuilderExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PipesAndFilters/ConsoleHostBuilderExtensions.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/StepOneResponse.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/PiplineTriggerRequest.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/HostedServiceBase.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineResponse.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/PipeContext.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineRequestHandler.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/StepOneBehaviour.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineError.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/StepTwoBehaviour.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/DoWorkFilter.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/PiplineRequest.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineContext.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/ValidationFilter.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Program.cs" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="23" />
+    <option name="width" value="2019" />
+    <option name="height" value="1327" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollFromSource SolutionExplorer="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PipesAndFilters" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PipesAndFilters" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PipesAndFilters" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PipesAndFilters" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PipesAndFilters" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Pipelines" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Custom" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PipesAndFilters/bin/Debug/netcoreapp2.1/PipesAndFilters.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PipesAndFilters" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PipesAndFilters/PipesAndFilters.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa84c8b-daf3-4f48-9460-5a117b17805a" name="Default Changelist" comment="" />
+      <created>1548287129927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548287129927</updated>
+      <workItem from="1548287131845" duration="14812000" />
+      <workItem from="1548910407478" duration="4423000" />
+      <workItem from="1549512116167" duration="4782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24017000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1344" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19102462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Azure Explorer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.31709266" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985623" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32953367" />
+      <window_info anchor="bottom" id="Docker" order="8" />
+      <window_info anchor="bottom" id="Azure Activity Log" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.5838658" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5005325" side_tool="true" weight="0.24600638" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32827476" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24980143" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/221FA654-76FD-4A6A-A7BE-C2CD9B5A08D9/fe/be60012a/IConfigurationBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="102" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="102" />
+          <folding>
+            <marker date="1548287559632" expanded="true" signature="0:459" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1548287559632" expanded="true" signature="540:1923" ph="{...}" />
+            <marker date="1548287559632" expanded="true" signature="545:640" ph="/// Represents a type used to build application configuration. ... " />
+            <marker date="1548287559632" expanded="true" signature="681:1921" ph="{...}" />
+            <marker date="1548287559632" expanded="true" signature="690:977" ph="/// Gets a key/value collection that can be used to share data between the &lt;see cref=&quot;T:Microsoft.Extensions.Conf ... " />
+            <marker date="1548287559632" expanded="true" signature="1165:1401" ph="///Adds a new configuration source. ... " />
+            <marker date="1548287559632" expanded="true" signature="1467:1885" ph="/// Builds an &lt;see cref=&quot;T:Microsoft.Extensions.Configuration.IConfiguration&quot; /&gt; with keys and values from the se ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/790C046D-3FEA-47D8-A082-BBCABBD0F621/4b/0bd6a5b6/ServiceCollectionExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E639C1F9-3A20-4A8D-8F59-EBCD8F7FB8D6/0e/ee8264d6/IBaseRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E639C1F9-3A20-4A8D-8F59-EBCD8F7FB8D6/61/5f352629/IRequest`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7EAE45F1-4528-418E-AB86-202DA29445AC/1c/2ac2f840/HostingHostBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="149" column="23" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/ConsoleHostBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <marker date="1548293293086" expanded="true" signature="6:125" ph="..." />
+            <marker date="1548293293086" expanded="true" signature="152:1086" ph="{...}" />
+            <marker date="1548293293086" expanded="true" signature="184:506" ph="{...}" />
+            <marker date="1548293293086" expanded="true" signature="564:1084" ph="{...}" />
+            <marker date="1548293293086" expanded="true" signature="739:1078" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/2c/c9c1eb6e/ConfiguredTaskAwaitable`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E639C1F9-3A20-4A8D-8F59-EBCD8F7FB8D6/a5/b436d17f/IPipelineBehavior`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <marker date="1549696799987" expanded="true" signature="35:409" ph="{...}" />
+            <marker date="1549696799987" expanded="true" signature="71:407" ph="{...}" />
+            <marker date="1549696799987" expanded="true" signature="309:401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineError.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1549697586673" expanded="true" signature="50:240" ph="{...}" />
+            <marker date="1549697586673" expanded="true" signature="83:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/DoWorkFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1549698105616" expanded="true" signature="6:104" ph="..." />
+            <marker date="1549698105616" expanded="true" signature="141:1290" ph="{...}" />
+            <marker date="1549698105616" expanded="true" signature="228:1288" ph="{...}" />
+            <marker date="1549698105616" expanded="true" signature="349:399" ph="{...}" />
+            <marker date="1549698105616" expanded="true" signature="574:1282" ph="{...}" />
+            <marker date="1549698105616" expanded="true" signature="646:872" ph="{...}" />
+            <marker date="1549698105616" expanded="true" signature="1036:1151" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineRequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <marker date="1549697321249" expanded="true" signature="6:107" ph="..." />
+            <marker date="1549697321249" expanded="true" signature="144:732" ph="{...}" />
+            <marker date="1549697321249" expanded="true" signature="334:730" ph="{...}" />
+            <marker date="1549697321249" expanded="true" signature="455:724" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/StepOneResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PiplineRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1549698328860" expanded="true" signature="35:127" ph="{...}" />
+            <marker date="1549698328860" expanded="true" signature="70:125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/HostedServiceBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+          <folding>
+            <marker date="1548390997796" expanded="true" signature="6:89" ph="..." />
+            <marker date="1548390997796" expanded="true" signature="116:1884" ph="{...}" />
+            <marker date="1548390997796" expanded="true" signature="123:449" ph="///A base class to provide correct handling of cancellation and start/stop semantics. ... " />
+            <marker date="1548390997796" expanded="true" signature="510:1882" ph="{...}" />
+            <marker date="1548390997796" expanded="true" signature="694:1078" ph="{...}" />
+            <marker date="1548390997796" expanded="true" signature="961:1028" ph="{...}" />
+            <marker date="1548390997796" expanded="true" signature="1152:1476" ph="{...}" />
+            <marker date="1548390997796" expanded="true" signature="1202:1254" ph="{...}" />
+            <marker date="1548390997796" expanded="true" signature="1486:1775" ph="///The long running operation that is run as a hosted service ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/PipelineContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1549698436247" expanded="true" signature="51:283" ph="{...}" />
+            <marker date="1549698436247" expanded="true" signature="115:281" ph="{...}" />
+            <marker date="1549698436247" expanded="true" signature="224:275" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <marker date="1549698509506" expanded="true" signature="6:137" ph="..." />
+            <marker date="1549698509506" expanded="true" signature="164:1875" ph="{...}" />
+            <marker date="1549698509506" expanded="true" signature="227:1873" ph="{...}" />
+            <marker date="1549698509506" expanded="true" signature="517:605" ph="{...}" />
+            <marker date="1549698509506" expanded="true" signature="712:1630" ph="{...}" />
+            <marker date="1549698509506" expanded="true" signature="785:1620" ph="{...}" />
+            <marker date="1549698509506" expanded="true" signature="816:1073" ph="/* We're simulating a condition that would cause the pipeline to be short-circuited ... */" />
+            <marker date="1549698509506" expanded="true" signature="1691:1867" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/Pipelines/ValidationFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <marker date="1549698655709" expanded="true" signature="6:118" ph="..." />
+            <marker date="1549698655709" expanded="true" signature="155:1511" ph="{...}" />
+            <marker date="1549698655709" expanded="true" signature="246:1509" ph="{...}" />
+            <marker date="1549698655709" expanded="true" signature="379:429" ph="{...}" />
+            <marker date="1549698655709" expanded="true" signature="596:1503" ph="{...}" />
+            <marker date="1549698655709" expanded="true" signature="667:1079" ph="{...}" />
+            <marker date="1549698655709" expanded="true" signature="1253:1372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/PipesAndFilters.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1549698799497" expanded="true" signature="6:104" ph="..." />
+            <marker date="1549698799497" expanded="true" signature="131:509" ph="{...}" />
+            <marker date="1549698799497" expanded="true" signature="276:507" ph="{...}" />
+            <marker date="1549698799497" expanded="true" signature="335:501" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <marker date="1549698826940" expanded="true" signature="0:268" ph="..." />
+            <marker date="1549698826940" expanded="true" signature="295:2217" ph="{...}" />
+            <marker date="1549698826940" expanded="true" signature="333:1763" ph="{...}" />
+            <marker date="1549698826940" expanded="true" signature="471:699" ph="{...}" />
+            <marker date="1549698826940" expanded="true" signature="889:922" ph="{...}" />
+            <marker date="1549698826940" expanded="true" signature="991:1757" ph="{...}" />
+            <marker date="1549698826940" expanded="true" signature="1002:1312" ph="/* services.Add( ... */" />
+            <marker date="1549698826940" expanded="true" signature="1816:2205" ph="{...}" />
+            <marker date="1549698826940" expanded="true" signature="2029:2199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
