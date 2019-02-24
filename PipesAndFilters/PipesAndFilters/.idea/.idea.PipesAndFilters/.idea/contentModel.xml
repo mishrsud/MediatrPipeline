@@ -10,6 +10,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConsoleHostBuilderExtensions.cs" t="Include" />
         <e p="EntryPointHostedService.cs" t="Include" />
+        <e p="ExceptionHandlingfilter.cs" t="Include" />
         <e p="HostedServiceBase.cs" t="Include" />
         <e p="LoggingFilter.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
@@ -20,16 +21,20 @@
           </e>
         </e>
         <e p="Pipelines" t="Include">
-          <e p="DoWorkFilter.cs" t="Include" />
-          <e p="PipelineContext.cs" t="Include" />
+          <e p="GarnishPizzaFilter.cs" t="Include" />
+          <e p="MakePizzaCrustFilter.cs" t="Include" />
+          <e p="MakePizzaRequestHandler.cs" t="Include" />
           <e p="PipelineError.cs" t="Include" />
-          <e p="PipelineRequestHandler.cs" t="Include" />
           <e p="PipelineResponse.cs" t="Include" />
           <e p="PiplineRequest.cs" t="Include" />
+          <e p="PizzaBaseFlourType.cs" t="Include" />
+          <e p="PizzaBaseType.cs" t="Include" />
+          <e p="PizzaPipelineContext.cs" t="Include" />
           <e p="ValidationFilter.cs" t="Include" />
         </e>
         <e p="PipesAndFilters.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
+        <e p="ServiceCollectionExtensions.cs" t="Include" />
         <e p="Startup.cs" t="Include" />
       </e>
       <e p="PipesAndFilters.sln" t="IncludeFlat" />

@@ -6,7 +6,7 @@ using Microsoft.Extensions.Logging;
 
 namespace PipesAndFilters.Pipelines
 {
-    public class ValidationFilter : IPipelineBehavior<PipelineContext, PipelineResponse>
+    public class ValidationFilter : IPipelineBehavior<PizzaPipelineContext, PipelineResponse>
     {
         private readonly ILogger<ValidationFilter> _logger;
 
@@ -15,8 +15,9 @@ namespace PipesAndFilters.Pipelines
             _logger = logger;
         }
 
-        public async Task<PipelineResponse> Handle(PipelineContext context, CancellationToken cancellationToken, RequestHandlerDelegate<PipelineResponse> nextFilter)
+        public async Task<PipelineResponse> Handle(PizzaPipelineContext context, CancellationToken cancellationToken, RequestHandlerDelegate<PipelineResponse> nextFilter)
         {
+            context.CurrentStep = nameof(ValidationFilter);
             if (context.Request.Values.Contains("continue"))
             {
                 // SIMULATE: Validation succeeded, call next step

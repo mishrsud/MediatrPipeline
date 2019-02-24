@@ -40,13 +40,18 @@ namespace PipesAndFilters
             
             services.AddScoped(typeof(IPipelineBehavior<,>),
                 typeof(LoggingFilter<,>));
+            services.AddScoped(typeof(IPipelineBehavior<PizzaPipelineContext, PipelineResponse>),
+                typeof(ExceptionHandlingFilter));
             services.AddScoped(
-                typeof(IPipelineBehavior<PipelineContext, PipelineResponse>),
+                typeof(IPipelineBehavior<PizzaPipelineContext, PipelineResponse>),
                 typeof(ValidationFilter));
             
             services.AddScoped(
-                typeof(IPipelineBehavior<PipelineContext, PipelineResponse>), 
-                typeof(DoWorkFilter));
+                typeof(IPipelineBehavior<PizzaPipelineContext, PipelineResponse>), 
+                typeof(MakePizzaCrustFilter));
+            services.AddScoped(
+                typeof(IPipelineBehavior<PizzaPipelineContext, PipelineResponse>),
+                typeof(GarnishPizzaFilter));
         }
     }
 }
