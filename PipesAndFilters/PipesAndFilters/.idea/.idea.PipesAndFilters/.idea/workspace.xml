@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fa84c8b-daf3-4f48-9460-5a117b17805a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PipesAndFilters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PipesAndFilters/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
-    </list>
+    <list default="true" id="4fa84c8b-daf3-4f48-9460-5a117b17805a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,32 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-54">
-              <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+            <state relative-caret-position="161">
+              <caret line="23" column="85" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
               <folding>
-                <marker date="1550985273932" expanded="true" signature="6:176" ph="..." />
-                <marker date="1550985273932" expanded="true" signature="203:1598" ph="{...}" />
-                <marker date="1550985273932" expanded="true" signature="372:1596" ph="{...}" />
-                <marker date="1550985273932" expanded="true" signature="621:709" ph="{...}" />
-                <marker date="1550985273932" expanded="true" signature="816:1448" ph="{...}" />
-                <marker date="1550985273932" expanded="true" signature="889:1438" ph="{...}" />
-                <marker date="1550985273932" expanded="true" signature="1509:1590" ph="{...}" />
+                <marker date="1550985375640" expanded="true" signature="6:176" ph="..." />
+                <marker date="1550985375640" expanded="true" signature="203:1587" ph="{...}" />
+                <marker date="1550985375640" expanded="true" signature="372:1585" ph="{...}" />
+                <marker date="1550985375640" expanded="true" signature="621:709" ph="{...}" />
+                <marker date="1550985375640" expanded="true" signature="816:1437" ph="{...}" />
+                <marker date="1550985375640" expanded="true" signature="889:1427" ph="{...}" />
+                <marker date="1550985375640" expanded="true" signature="1498:1579" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="126">
-                <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -231,8 +215,8 @@
         <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/GarnishPizzaFilter.cs" />
         <option value="$PROJECT_DIR$/PipesAndFilters/Startup.cs" />
         <option value="$PROJECT_DIR$/PipesAndFilters/Pipelines/MakePizzaCrustFilter.cs" />
-        <option value="$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs" />
         <option value="$PROJECT_DIR$/../../README.md" />
+        <option value="$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs" />
       </list>
     </option>
   </component>
@@ -336,12 +320,12 @@
       <workItem from="1548910407478" duration="4423000" />
       <workItem from="1549512116167" duration="5756000" />
       <workItem from="1550453514444" duration="3182000" />
-      <workItem from="1550983011118" duration="2232000" />
+      <workItem from="1550983011118" duration="2461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30405000" />
+    <option name="totallyTimeSpent" value="30634000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,6 +338,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1344" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14535345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -707,22 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
-          <folding>
-            <marker date="1550985273932" expanded="true" signature="6:176" ph="..." />
-            <marker date="1550985273932" expanded="true" signature="203:1598" ph="{...}" />
-            <marker date="1550985273932" expanded="true" signature="372:1596" ph="{...}" />
-            <marker date="1550985273932" expanded="true" signature="621:709" ph="{...}" />
-            <marker date="1550985273932" expanded="true" signature="816:1448" ph="{...}" />
-            <marker date="1550985273932" expanded="true" signature="889:1438" ph="{...}" />
-            <marker date="1550985273932" expanded="true" signature="1509:1590" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -730,6 +699,22 @@
             <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipesAndFilters/EntryPointHostedService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="23" column="85" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
+          <folding>
+            <marker date="1550985375640" expanded="true" signature="6:176" ph="..." />
+            <marker date="1550985375640" expanded="true" signature="203:1587" ph="{...}" />
+            <marker date="1550985375640" expanded="true" signature="372:1585" ph="{...}" />
+            <marker date="1550985375640" expanded="true" signature="621:709" ph="{...}" />
+            <marker date="1550985375640" expanded="true" signature="816:1437" ph="{...}" />
+            <marker date="1550985375640" expanded="true" signature="889:1427" ph="{...}" />
+            <marker date="1550985375640" expanded="true" signature="1498:1579" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
